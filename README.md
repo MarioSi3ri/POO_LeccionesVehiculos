@@ -22,7 +22,7 @@ El proyecto presenta dos clases principales:
 - **`Matematicas`**: demuestra el uso de constructores y la sobrecarga del método `multiplicar`.
 - **`Test`**: funciona como punto de entrada para crear objetos, asignar valores y ejecutar los métodos de las clases.
 
-Este ejercicio corresponde a una práctica académica de UVEG relacionada con clases y métodos aplicados a características de vehículos.
+Este ejercicio corresponde a una práctica académica de la UVEG relacionada con clases y métodos aplicados a características de vehículos.
 
 ## 🎯 Objetivos de aprendizaje
 
@@ -203,7 +203,7 @@ Las contribuciones son bienvenidas y pueden servir para ampliar el material de a
 
 ## 📄 Licencia
 
-Este repositorio no incluye actualmente un archivo de licencia. Si deseas reutilizar, modificar o distribuir el código fuera de un contexto académico, consulta con el autor o solicita la incorporación de una licencia explícita.
+Este proyecto se distribuye bajo la **Licencia MIT**. Consulta el archivo [LICENSE](LICENSE) para conocer los términos completos.
 
 ## 👤 Autor
 
