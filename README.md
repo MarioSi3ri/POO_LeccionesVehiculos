@@ -201,16 +201,16 @@ Las contribuciones son bienvenidas y pueden servir para ampliar el material de a
 
 5. Envía la rama a tu fork y abre un Pull Request.
 
-## 📄 Licencia
-
-Este proyecto se distribuye bajo la **Licencia MIT**. Consulta el archivo [LICENSE](LICENSE) para conocer los términos completos.
-
 ## 👤 Autor
 
 **Mario Sierra Neri**
 
 - GitHub: [@MarioSi3ri](https://github.com/MarioSi3ri)
 - Repositorio: [POO_LeccionesVehiculos](https://github.com/MarioSi3ri/POO_LeccionesVehiculos)
+
+## 📄 Licencia
+
+Este proyecto se distribuye bajo la **Licencia MIT**. Consulta el archivo [LICENSE](LICENSE) para conocer los términos completos.
 
 ---
 
